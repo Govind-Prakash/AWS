@@ -1,3 +1,4 @@
-# RNA-seq analysis using AWS platform
+# AWS beginners guide for Bioinformatics
+
 <Br>
 How to do RNA-seq analysis using AWS platform for heavy computational works (2025 Updated)
